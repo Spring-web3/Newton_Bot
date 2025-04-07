@@ -10,6 +10,7 @@ Newton活动地址 :https://www.magicnewton.com/portal/rewards
 
 ez-captcha打码:https://dashboard.ez-captcha.com/#/register?inviteCode=RwWnXXhDlOf
 
+由于易语言的不可跨平台性，软件只支持windows环境运行，防火墙和杀毒软件对易语言编译的软件经常误报，可以忽略。长期使用建议挂在海外云服务器，有每日任务之类的可以长期挂机。
 首次使用请将spring.exe放在C盘根目录，这是后续每个软件需要用到的nodejs后端接口服务。
 请将RSCProject.dll和MagicNewtonBot.exe放置在同一目录下，MagicNewtonBot.exe有用到RSCProject.dll的支持库配置。
 软件为免费提供分享，卡密key:
